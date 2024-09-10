@@ -1,0 +1,11 @@
+S.No.|Non Veg Food Names|Taste
+1|Matton Biryani|Delicious
+2|Chicken Curry|Hot
+3|Matton Curry|Spicy
+4|Fish Fry|Crunchy
+5|Prawns|Good
+6|Matton Fry|Spicy
+7|Chilli Chicken|Crunchy
+8|Fish Curry|Good
+9|Chicken Biryani|Delicious
+10|Chicken Fry|Spicy
